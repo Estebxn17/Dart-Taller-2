@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Column Alignment Example'),
+          title: Text('Ejemplo Alineacion'),
         ),
         body: Center(
           child: Column(
